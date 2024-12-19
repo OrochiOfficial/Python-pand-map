@@ -1,0 +1,19 @@
+wojewodztwa-medium.geojson
+pow12_22_korekta.xlsx
+
+1   śląskie
+2   opolskie
+3   wielkopolskie
+4   zachodniopomorskie
+5   świętokrzyskie
+6   kujawsko-pomorskie
+7   podlaskie
+8   dolnośląskie
+9   podkarpackie
+10  małopolskie
+11  pomorskie
+12  warmińsko-mazurskie
+13  łódzkie
+14  mazowieckie
+15  lubelskie
+16  lubuskie
